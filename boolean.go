@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//bull
+//bool
 func main() {
 	fmt.Println("Benar = ", true)
 	fmt.Println("Salah = ", false)
