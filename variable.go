@@ -27,3 +27,5 @@ func main() {
 	fmt.Println(firstName)
 	fmt.Println(lastName)
 }
+
+// variable
