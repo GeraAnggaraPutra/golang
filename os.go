@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	
 	args := os.Args
 	fmt.Println("Argument : ")
 	fmt.Println(args)
