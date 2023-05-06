@@ -24,4 +24,6 @@ func main() {
 	for element := data.Back(); element != nil; element = element.Prev() {
 		fmt.Println(element.Value)
 	}
+
+	fmt.Println(data.Len()) // menghitung jumlah data
 }
